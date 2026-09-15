@@ -62,7 +62,7 @@ MERN_STACK/
 │
 └── ...
 
-📚 Learning Journey
+## 📚 Learning Journey
 Day 1 — JavaScript Fundamentals ✅
 Topics Covered
 What is JavaScript?
